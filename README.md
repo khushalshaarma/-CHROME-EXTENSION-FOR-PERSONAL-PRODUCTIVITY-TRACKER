@@ -59,3 +59,6 @@ Click “Load Unpacked”
 Select the dist/ folder
 
 Once installed, the extension will begin monitoring active tab usage in the background. Clicking on the extension icon opens a popup with a detailed chart summarizing time spent per domain.
+
+# OUTPUT #
+<img width="1873" height="939" alt="Image" src="https://github.com/user-attachments/assets/8ba2e88a-6914-4bec-8148-051803610a3a" />
